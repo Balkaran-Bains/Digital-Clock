@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(26, 87, 119);
+    
+}
+
+.div_1{
+    text-align: center;
+    margin-top: 200px ;
+}
+.h1{
+    color: aqua;
+}
+.ClockBox{
+    background-color: rgb(11, 11, 0);
+    display: inline-block;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: larger;
+    color: aqua;
+    margin-top: 20px;
+}
